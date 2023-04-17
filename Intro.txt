@@ -6,3 +6,5 @@ I might add more in it future.
 For now Bye
 Thank you!!!
 :)
+This is my second time writing in this file just for nothing [D()[Dchecking some things and learn)
+To check how is push works and what are other things like git log and so.
